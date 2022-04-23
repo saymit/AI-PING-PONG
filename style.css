@@ -1,0 +1,16 @@
+body
+{
+text-align: center;
+}
+
+.heading{
+    width: 100%;
+   
+}
+
+.Instuctions{
+    float: right;
+    border: 2px solid black;
+    
+}
+
